@@ -1,0 +1,3 @@
+*.html diff=html
+*.css diff=css
+*.md diff=markdown
